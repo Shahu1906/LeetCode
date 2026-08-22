@@ -1,49 +1,28 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        unordered_map<int, unordered_set<int>> rows;
-        for(auto &reservation: reservedSeats){
-            int row=reservation[0];
-            int seat=reservation[1];
-            rows[row].insert(seat);
+        unordered_map<int, int> mp;
+        for (auto& reservedSeat : reservedSeats) {
+            int row = reservedSeat[0];
+            int seat = reservedSeat[1];
+
+            mp[row] |= (1 << seat);
         }
-        int groups=0;
-        for(auto &row : rows){
-            bool leftAvailable=true;
-            bool rightAvailable=true;
-            bool midAvailable=true;
-            for(int seat=2;seat<=5;seat++){
-                if(row.second.count(seat)){
-                    leftAvailable=false;
-                    break;
-                }
-            }
-            for(int seat=4;seat<=7;seat++){
-                if(row.second.count(seat)){
-                    midAvailable=false;
-                    break;
-                }
-            }
-            for(int seat=6;seat<=9;seat++){
-                if(row.second.count(seat)){
-                    rightAvailable=false;
-                    break;
-                }
-            }
+        int result = (n - mp.size()) * 2;
+        int maskA = (1 << 2) | (1 << 3) | (1 << 4) | (1 << 5);
+        int maskB = (1 << 4) | (1 << 5) | (1 << 6) | (1 << 7);
+        int maskC = (1 << 6) | (1 << 7) | (1 << 8) | (1 << 9);
+        for (auto& [row, BookedSeatsMask] : mp) {
 
-            if(rightAvailable && leftAvailable){
-                groups+=2;
-            }
-            else if(leftAvailable || rightAvailable || midAvailable){
-                groups+=1;
-            }
+            bool GroupA = (BookedSeatsMask & maskA) == 0;
+            bool GroupB = (BookedSeatsMask & maskB) == 0;
+            bool GroupC = (BookedSeatsMask & maskC) == 0;
 
-
-
+            if (GroupA && GroupC)
+                result += 2;
+            else if (GroupA || GroupB || GroupC)
+                result += 1;
         }
-        groups += (n - rows.size()) * 2;
-
-        return groups;
-
+        return result;
     }
 };
