@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shahu1906/LeetCode/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/Shahu1906/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/Shahu1906/LeetCode/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/Shahu1906/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Shahu1906/LeetCode/tree/master/1406-stone-game-iii) |
@@ -254,4 +255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Shahu1906/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shahu1906/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Shahu1906/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Shahu1906/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
