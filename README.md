@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shahu1906/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shahu1906/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shahu1906/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shahu1906/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shahu1906/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Shahu1906/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Shahu1906/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shahu1906/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shahu1906/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shahu1906/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shahu1906/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shahu1906/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Shahu1906/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Shahu1906/LeetCode/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shahu1906/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shahu1906/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shahu1906/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shahu1906/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shahu1906/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shahu1906/LeetCode/tree/master/1563-stone-game-v) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shahu1906/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shahu1906/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shahu1906/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Array
