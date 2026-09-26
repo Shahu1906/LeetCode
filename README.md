@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shahu1906/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shahu1906/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shahu1906/LeetCode/tree/master/1563-stone-game-v) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Shahu1906/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shahu1906/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shahu1906/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shahu1906/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Shahu1906/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Shahu1906/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Shahu1906/LeetCode/tree/master/1563-stone-game-v) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Shahu1906/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2029-stone-game-ix](https://github.com/Shahu1906/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shahu1906/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shahu1906/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
