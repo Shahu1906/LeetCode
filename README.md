@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shahu1906/LeetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Shahu1906/LeetCode/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shahu1906/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Shahu1906/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shahu1906/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Shahu1906/LeetCode/tree/master/0877-stone-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Shahu1906/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Shahu1906/LeetCode/tree/master/0148-sort-list) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shahu1906/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Shahu1906/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shahu1906/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shahu1906/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Shahu1906/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shahu1906/LeetCode/tree/master/0213-house-robber-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shahu1906/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Shahu1906/LeetCode/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Shahu1906/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0835-image-overlap](https://github.com/Shahu1906/LeetCode/tree/master/0835-image-overlap) |
