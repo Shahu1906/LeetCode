@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Shahu1906/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shahu1906/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Shahu1906/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Shahu1906/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Shahu1906/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Shahu1906/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shahu1906/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Shahu1906/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shahu1906/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shahu1906/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1267-count-servers-that-communicate](https://github.com/Shahu1906/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shahu1906/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Shahu1906/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Shahu1906/LeetCode/tree/master/1406-stone-game-iii) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Shahu1906/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Shahu1906/LeetCode/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
@@ -354,12 +358,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Shahu1906/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shahu1906/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shahu1906/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Shahu1906/LeetCode/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/Shahu1906/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shahu1906/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shahu1906/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/Shahu1906/LeetCode/tree/master/3665-twisted-mirror-path-count) |
