@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shahu1906/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Shahu1906/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shahu1906/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shahu1906/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shahu1906/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Shahu1906/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2029-stone-game-ix](https://github.com/Shahu1906/LeetCode/tree/master/2029-stone-game-ix) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shahu1906/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shahu1906/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shahu1906/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Tournament Sort
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shahu1906/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shahu1906/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Tree
 |  |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shahu1906/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shahu1906/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shahu1906/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
