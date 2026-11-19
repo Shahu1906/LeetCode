@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shahu1906/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Shahu1906/LeetCode/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/Shahu1906/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shahu1906/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shahu1906/LeetCode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Shahu1906/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shahu1906/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Shahu1906/LeetCode/tree/master/0322-coin-change) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shahu1906/LeetCode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/Shahu1906/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shahu1906/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shahu1906/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
