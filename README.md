@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shahu1906/LeetCode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Shahu1906/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shahu1906/LeetCode/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/Shahu1906/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shahu1906/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Shahu1906/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shahu1906/LeetCode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Shahu1906/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shahu1906/LeetCode/tree/master/0213-house-robber-ii) |
@@ -453,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Shahu1906/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Shahu1906/LeetCode/tree/master/0518-coin-change-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Shahu1906/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
