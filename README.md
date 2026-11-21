@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shahu1906/LeetCode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Shahu1906/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Shahu1906/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shahu1906/LeetCode/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/Shahu1906/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Shahu1906/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Shahu1906/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shahu1906/LeetCode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Shahu1906/LeetCode/tree/master/0198-house-robber) |
