@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Shahu1906/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Shahu1906/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shahu1906/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Shahu1906/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shahu1906/LeetCode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Shahu1906/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shahu1906/LeetCode/tree/master/0509-fibonacci-number) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shahu1906/LeetCode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Shahu1906/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shahu1906/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Shahu1906/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shahu1906/LeetCode/tree/master/0322-coin-change) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shahu1906/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Shahu1906/LeetCode/tree/master/0486-predict-the-winner) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shahu1906/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/Shahu1906/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shahu1906/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shahu1906/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shahu1906/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -461,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Shahu1906/LeetCode/tree/master/0051-n-queens) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shahu1906/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
